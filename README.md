@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h1 align="center">Hello ✌️ my name is Ricardo Morais.</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> my name is Ricardo Morais.</h1>
 
 <h3 align="center">I’m a Front-end Developer</h3>
 
@@ -23,19 +23,21 @@
 
 These technologies represent the core of my technical expertise. However, my skill set extends beyond these tools and frameworks which you can explore in more detail in <a href="https://www.ricardomorais.dev/uses">ricardomorais.dev/uses</a>.
 
-<p>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC">
-  <img src="https://img.shields.io/badge/Build-Vite-informational?style=flat&logo=vite&logoColor=white&color=646CFF">
-  <img src="https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=DB7093">
-  <img src="https://img.shields.io/badge/Package-pnpm-informational?style=flat&logo=pnpm&logoColor=white&color=F69220">
-  <img src="https://img.shields.io/badge/Deploy-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Build-Rollup-informational?style=flat&logo=rollup.js&logoColor=white&color=EC4A3F">
-  <img src="https://img.shields.io/badge/Test-Testing_Library-informational?style=flat&logo=testing-library&logoColor=white&color=E33332">
+<br />
+<div align="center">
+  <img src="./icons/react.svg">
+  <img src="./icons/ts.svg">
+  <img src="./icons/vite.svg">
+  <img src="./icons/styled-components.svg">
+  <img src="./icons/pnpm.svg">
+  <img src="./icons/vercel.svg">
+  <img src="./icons/rollup.svg">
+  <img src="./icons/testing-library.svg">
 </p>
 
 ---
 
+<br />
 <p align="center">
   <a href="https://stackoverflow.com/users/8182493/ricardo-dias-morais">
     <img src="https://stackoverflow.com/users/flair/8182493.png?theme=dark" width="208" height="58" alt="Ricardo Dias Morais - Stack Overflow">
