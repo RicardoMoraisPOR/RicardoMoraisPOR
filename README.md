@@ -50,4 +50,4 @@ These technologies represent the core of my technical expertise. However, my ski
 
 ---
 
-> ⚠️ **Note**: I usually work over Azure and GitLab repos, so the stats on GitHub only reflect the projects I work on during my personal time outside of work.
+> ⚠️ **Note**: I usually work over Azure and GitLab internal repos, so the stats on GitHub only reflect the projects I work on during my personal time outside of work.
