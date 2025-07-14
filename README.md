@@ -12,9 +12,7 @@
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> my name is Ricardo Morais.</h1>
 
-<h3 align="center">I’m a Front-end Developer</h3>
-
-<p align="center">Currently working as <b>Software Engineer</b> at <a href="https://www.nextbitt.com/">Nextbitt</a> 🍃 while enjoying the vibrant life on the stunning Madeira Island 🏝️.</p>
+<p align="center">Currently working at <a href="https://www.santanderconsumer.com/">Santander Consumer Finance</a> as a <b>Front-end Engineer</b></p>
 <p align="center"> Want to know more? Visit my portfolio website at <a href="https://www.ricardomorais.dev">ricardomorais.dev</a> to explore my journey and projects!</p>
 
 ---
@@ -50,4 +48,4 @@ These technologies represent the core of my technical expertise. However, my ski
 
 ---
 
-> ⚠️ **Note**: I usually work over Azure and GitLab internal repos, so the stats on GitHub only reflect the projects I work on during my personal time outside of work.
+> ⚠️ **Note**: I usually work over internal repos, so the stats on GitHub only reflect the projects I work on during my personal time outside of work.
